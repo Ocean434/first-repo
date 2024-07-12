@@ -1,2 +1,2 @@
-# gitee-test
-这是一个gitee测试仓库
+# github-test
+这是一个github测试仓库
